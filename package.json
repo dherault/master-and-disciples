@@ -1,0 +1,27 @@
+{
+  "name": "master-and-disciples",
+  "version": "1.0.0",
+  "description": "A tree to look after",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/master-and-disciples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dherault/master-and-disciples/issues"
+  },
+  "homepage": "https://github.com/dherault/master-and-disciples#readme",
+  "dependencies": {
+    "treeify": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
